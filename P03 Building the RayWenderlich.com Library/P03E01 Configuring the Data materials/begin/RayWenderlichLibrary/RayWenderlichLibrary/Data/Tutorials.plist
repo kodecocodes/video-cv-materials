@@ -1,0 +1,2550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>iOS &amp; Swift</string>
+		<key>tutorials</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Fastlane for iOS</string>
+				<key>thumbnail</key>
+				<string>fastlane-for-ios</string>
+				<key>artworkColor</key>
+				<string>F9B978</string>
+				<key>publishDate</key>
+				<date>2019-07-30T04:00:00Z</date>
+				<key>isQueued</key>
+				<false/>
+				<key>content</key>
+				<array>
+					<dict>
+						<key>title</key>
+						<string>Getting Started</string>
+						<key>videos</key>
+						<array>
+							<dict>
+								<key>title</key>
+								<string>Introduction</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1259223-fastlane-for-ios/lessons/1</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Challenge: Store Tasks</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1259223-fastlane-for-ios/lessons/2</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>About Fastlane</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1259223-fastlane-for-ios/lessons/3</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Installing Fastlane</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1259223-fastlane-for-ios/lessons/4</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Registration</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1259223-fastlane-for-ios/lessons/5</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Challenge: Using Produce</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1259223-fastlane-for-ios/lessons/6</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Certificate Management</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1259223-fastlane-for-ios/lessons/7</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Provisioning</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1259223-fastlane-for-ios/lessons/8</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Challenge: Creating Custom Lanes</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1259223-fastlane-for-ios/lessons/9</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Conclusion</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1259223-fastlane-for-ios/lessons/10</string>
+							</dict>
+						</array>
+					</dict>
+					<dict>
+						<key>title</key>
+						<string>Team Development</string>
+						<key>videos</key>
+						<array>
+							<dict>
+								<key>title</key>
+								<string>Introduction</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1259223-fastlane-for-ios/lessons/11</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Team Code Signing</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1259223-fastlane-for-ios/lessons/12</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Match</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1259223-fastlane-for-ios/lessons/13</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Challenge: Using Match</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1259223-fastlane-for-ios/lessons/14</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Lane Tips</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1259223-fastlane-for-ios/lessons/15</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Environments and Settings</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1259223-fastlane-for-ios/lessons/16</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Challenge: Lane Upgrades</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1259223-fastlane-for-ios/lessons/17</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Conclusion</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1259223-fastlane-for-ios/lessons/18</string>
+							</dict>
+						</array>
+					</dict>
+					<dict>
+						<key>title</key>
+						<string>Test Builds and Distribution</string>
+						<key>videos</key>
+						<array>
+							<dict>
+								<key>title</key>
+								<string>Introduction</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1259223-fastlane-for-ios/lessons/19</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Building and Packaging</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1259223-fastlane-for-ios/lessons/20</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Challenge: Using Gym</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1259223-fastlane-for-ios/lessons/21</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Pilot</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1259223-fastlane-for-ios/lessons/22</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Other Test Options</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1259223-fastlane-for-ios/lessons/23</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Challenge: Distribution</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1259223-fastlane-for-ios/lessons/24</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Conclusion</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1259223-fastlane-for-ios/lessons/25</string>
+							</dict>
+						</array>
+					</dict>
+					<dict>
+						<key>title</key>
+						<string>App Submission and Approval</string>
+						<key>videos</key>
+						<array>
+							<dict>
+								<key>title</key>
+								<string>Introduction</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1259223-fastlane-for-ios/lessons/26</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Metadata</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1259223-fastlane-for-ios/lessons/27</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Challenge: Using Precheck</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1259223-fastlane-for-ios/lessons/28</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Screenshots</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1259223-fastlane-for-ios/lessons/29</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Snapshot</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1259223-fastlane-for-ios/lessons/30</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Challenge: Adding Snapshot</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1259223-fastlane-for-ios/lessons/31</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Frames</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1259223-fastlane-for-ios/lessons/32</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Deliver</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1259223-fastlane-for-ios/lessons/33</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Challenge: App Submission</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1259223-fastlane-for-ios/lessons/34</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Conclusion</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1259223-fastlane-for-ios/lessons/35</string>
+							</dict>
+						</array>
+					</dict>
+					<dict>
+						<key>title</key>
+						<string>Advanced</string>
+						<key>videos</key>
+						<array>
+							<dict>
+								<key>title</key>
+								<string>Introduction</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1259223-fastlane-for-ios/lessons/36</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Git Integration</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1259223-fastlane-for-ios/lessons/37</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Unit Tests</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1259223-fastlane-for-ios/lessons/38</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Linting</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1259223-fastlane-for-ios/lessons/39</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Documentation</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1259223-fastlane-for-ios/lessons/40</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Slack</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1259223-fastlane-for-ios/lessons/41</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Plugins</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1259223-fastlane-for-ios/lessons/42</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Best Practices</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1259223-fastlane-for-ios/lessons/43</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Conclusion</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1259223-fastlane-for-ios/lessons/44</string>
+							</dict>
+						</array>
+					</dict>
+				</array>
+				<key>updateCount</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Push Notifications</string>
+				<key>type</key>
+				<string>course</string>
+				<key>thumbnail</key>
+				<string>push-notifications</string>
+				<key>artworkColor</key>
+				<string>B5DAA9</string>
+				<key>publishDate</key>
+				<date>2019-06-18T04:00:00Z</date>
+				<key>isQueued</key>
+				<false/>
+				<key>content</key>
+				<array>
+					<dict>
+						<key>title</key>
+						<string>Common Scenarios</string>
+						<key>videos</key>
+						<array>
+							<dict>
+								<key>title</key>
+								<string>Introduction</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1258151-push-notifications/lessons/1</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Getting Started</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1258151-push-notifications/lessons/2</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Your First Push</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1258151-push-notifications/lessons/3</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Payload Keys</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1258151-push-notifications/lessons/4</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Tap to App</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1258151-push-notifications/lessons/5</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Silent Notification</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1258151-push-notifications/lessons/6</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Action Category</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1258151-push-notifications/lessons/7</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Provider Servers</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1258151-push-notifications/lessons/8</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Vapor Server</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1258151-push-notifications/lessons/9</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Conclusion</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1258151-push-notifications/lessons/10</string>
+							</dict>
+						</array>
+					</dict>
+					<dict>
+						<key>title</key>
+						<string>Modifying the Payload</string>
+						<key>videos</key>
+						<array>
+							<dict>
+								<key>title</key>
+								<string>Introduction</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1258151-push-notifications/lessons/11</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Notification Service Extension</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1258151-push-notifications/lessons/12</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Debugging an Extension</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1258151-push-notifications/lessons/13</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Challenge: Debugging an Extension</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1258151-push-notifications/lessons/14</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Attaching Media</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1258151-push-notifications/lessons/15</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Badging the App Icon</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1258151-push-notifications/lessons/16</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Conclusion</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1258151-push-notifications/lessons/17</string>
+							</dict>
+						</array>
+					</dict>
+					<dict>
+						<key>title</key>
+						<string>Custom UI</string>
+						<key>videos</key>
+						<array>
+							<dict>
+								<key>title</key>
+								<string>Introduction</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1258151-push-notifications/lessons/18</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Custom UI Category</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1258151-push-notifications/lessons/19</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>3D-Touch to Map</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1258151-push-notifications/lessons/20</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Text Input</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1258151-push-notifications/lessons/21</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Dynamic Action</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1258151-push-notifications/lessons/22</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Challenge: Dynamic Action</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1258151-push-notifications/lessons/23</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Attaching Media</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1258151-push-notifications/lessons/24</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Custom User Input</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1258151-push-notifications/lessons/25</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Interactive UI</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1258151-push-notifications/lessons/26</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Conclusion</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1258151-push-notifications/lessons/27</string>
+							</dict>
+						</array>
+					</dict>
+					<dict>
+						<key>title</key>
+						<string>Local Notifications</string>
+						<key>videos</key>
+						<array>
+							<dict>
+								<key>title</key>
+								<string>Introduction</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1258151-push-notifications/lessons/28</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Setup</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1258151-push-notifications/lessons/29</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Time &amp; Calendar Triggers</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1258151-push-notifications/lessons/30</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Location Trigger</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1258151-push-notifications/lessons/31</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Challenge: Tap to App</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1258151-push-notifications/lessons/32</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Conclusion</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1258151-push-notifications/lessons/33</string>
+							</dict>
+						</array>
+					</dict>
+				</array>
+				<key>updateCount</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>In-App Purchases</string>
+				<key>type</key>
+				<string>course</string>
+				<key>thumbnail</key>
+				<string>in-app-purchases</string>
+				<key>artworkColor</key>
+				<string>F2BD5F</string>
+				<key>publishDate</key>
+				<date>2019-03-19T04:00:00Z</date>
+				<key>isQueued</key>
+				<false/>
+				<key>content</key>
+				<array>
+					<dict>
+						<key>title</key>
+						<string>Getting Started</string>
+						<key>videos</key>
+						<array>
+							<dict>
+								<key>title</key>
+								<string>Introduction</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304447-in-app-purchases/lessons/1</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Starter Project Overview</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304447-in-app-purchases/lessons/2</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>In-App Purchase Pipeline</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304447-in-app-purchases/lessons/3</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Creating an App</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304447-in-app-purchases/lessons/4</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>In-App Purchase Types</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304447-in-app-purchases/lessons/5</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Challenge: Adding More In-App Purchases</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304447-in-app-purchases/lessons/6</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Creating Sandbox Users</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304447-in-app-purchases/lessons/7</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Challenge: Configuring Your Project</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304447-in-app-purchases/lessons/8</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Integrating Store Kit</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304447-in-app-purchases/lessons/9</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Listing Your Products</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304447-in-app-purchases/lessons/10</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Troubleshooting Errors</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304447-in-app-purchases/lessons/11</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Conclusion</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304447-in-app-purchases/lessons/12</string>
+							</dict>
+						</array>
+					</dict>
+					<dict>
+						<key>title</key>
+						<string>Buying and Restoring Products</string>
+						<key>videos</key>
+						<array>
+							<dict>
+								<key>title</key>
+								<string>Introduction</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304447-in-app-purchases/lessons/13</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Processing Transactions</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304447-in-app-purchases/lessons/14</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string> Notifying the User</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304447-in-app-purchases/lessons/15</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Challenge: Testing on a Device</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304447-in-app-purchases/lessons/16</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Saving Locally</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304447-in-app-purchases/lessons/17</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Restoring Purchases</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304447-in-app-purchases/lessons/18</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Non-Renewing Subscriptions</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304447-in-app-purchases/lessons/19</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Providing Subscription Content</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304447-in-app-purchases/lessons/20</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Auto-Renewing Subscriptions</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304447-in-app-purchases/lessons/21</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Conclusion</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304447-in-app-purchases/lessons/22</string>
+							</dict>
+						</array>
+					</dict>
+					<dict>
+						<key>title</key>
+						<string>Validating Receipts</string>
+						<key>videos</key>
+						<array>
+							<dict>
+								<key>title</key>
+								<string>Introduction</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304447-in-app-purchases/lessons/23</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Receipt Validation Starter Project</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304447-in-app-purchases/lessons/24</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Loading the Receipt</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304447-in-app-purchases/lessons/25</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Validating the Receipt</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304447-in-app-purchases/lessons/26</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Read Receipt Contents</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304447-in-app-purchases/lessons/27</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Getting Purchase Information</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304447-in-app-purchases/lessons/28</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Receipt Verification</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304447-in-app-purchases/lessons/29</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Running Local Validation</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304447-in-app-purchases/lessons/30</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Remote Receipt Vaildation</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304447-in-app-purchases/lessons/31</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Human Interface Guidelines</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304447-in-app-purchases/lessons/32</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Conclusion</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304447-in-app-purchases/lessons/33</string>
+							</dict>
+						</array>
+					</dict>
+				</array>
+				<key>updateCount</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Machine Learning in iOS</string>
+				<key>type</key>
+				<string>course</string>
+				<key>thumbnail</key>
+				<string>machine-learning-ios</string>
+				<key>artworkColor</key>
+				<string>99A1C8</string>
+				<key>publishDate</key>
+				<date>2019-07-16T04:00:00Z</date>
+				<key>isQueued</key>
+				<false/>
+				<key>content</key>
+				<array>
+					<dict>
+						<key>title</key>
+						<string>Core ML and Create ML</string>
+						<key>videos</key>
+						<array>
+							<dict>
+								<key>title</key>
+								<string>Introduction</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1320561-machine-learning-in-ios/lessons/1</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Core ML Models</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1320561-machine-learning-in-ios/lessons/2</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Vision</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1320561-machine-learning-in-ios/lessons/3</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Image Classification</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1320561-machine-learning-in-ios/lessons/4</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Multi-Class Classification</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1320561-machine-learning-in-ios/lessons/5</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Create ML</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1320561-machine-learning-in-ios/lessons/6</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Data Curation</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1320561-machine-learning-in-ios/lessons/7</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Conclusion</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1320561-machine-learning-in-ios/lessons/8</string>
+							</dict>
+						</array>
+					</dict>
+					<dict>
+						<key>title</key>
+						<string>Turi Create</string>
+						<key>videos</key>
+						<array>
+							<dict>
+								<key>title</key>
+								<string>Introduction</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1320561-machine-learning-in-ios/lessons/9</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Python Environment</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1320561-machine-learning-in-ios/lessons/10</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Transfer Learning with Turi Create</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1320561-machine-learning-in-ios/lessons/11</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Evaluation with Turi Create</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1320561-machine-learning-in-ios/lessons/12</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Confusion Matrices</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1320561-machine-learning-in-ios/lessons/13</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Validation in Turi Create</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1320561-machine-learning-in-ios/lessons/14</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Conclusion</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1320561-machine-learning-in-ios/lessons/15</string>
+							</dict>
+						</array>
+					</dict>
+				</array>
+				<key>updateCount</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>What’s New in Swift 5.1?</string>
+				<key>type</key>
+				<string>article</string>
+				<key>thumbnail</key>
+				<string>WhatsNewSwift5_1-feature</string>
+				<key>artworkColor</key>
+				<string>a6a6a6</string>
+				<key>publishDate</key>
+				<date>2019-07-30T04:00:00Z</date>
+				<key>isQueued</key>
+				<false/>
+				<key>content</key>
+				<array>
+					<dict>
+						<key>title</key>
+						<string>Language Improvements</string>
+						<key>videos</key>
+						<array>
+							<dict>
+								<key>title</key>
+								<string>Opaque Result Types</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/4187396-what-s-new-in-swift-5-1-1</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Implicit Returns From Single-Expression Functions</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/4187396-what-s-new-in-swift-5-1-2</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Function Builders</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/4187396-what-s-new-in-swift-5-1-3</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Property Wrappers</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/4187396-what-s-new-in-swift-5-1-4</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Synthesizing Default Values for Initializers in Structures</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/4187396-what-s-new-in-swift-5-1-5</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Self for Static Members</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/4187396-what-s-new-in-swift-5-1-6</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Creating Uninitialized Arrays</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/4187396-what-s-new-in-swift-5-1-7</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Diffing Ordered Collections</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/4187396-what-s-new-in-swift-5-1-8</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Static and Class Subscripts</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/4187396-what-s-new-in-swift-5-1-9</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Dynamic Member Lookup for Keypaths</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/4187396-what-s-new-in-swift-5-1-10</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Keypaths for Tuples</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/4187396-what-s-new-in-swift-5-1-11</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Equatable and Hashable Conformance for Weak and Unowned Properties</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/4187396-what-s-new-in-swift-5-1-12</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Ambiguous Enumeration Cases</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/4187396-what-s-new-in-swift-5-1-13</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Matching Optional Enumerations Against Non-optionals</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/4187396-what-s-new-in-swift-5-1-14</string>
+							</dict>
+						</array>
+					</dict>
+					<dict>
+						<key>title</key>
+						<string>New Features for Strings</string>
+						<key>videos</key>
+						<array>
+							<dict>
+								<key>title</key>
+								<string>Contiguous Strings</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/4187396-what-s-new-in-swift-5-1-15</string>
+							</dict>
+						</array>
+					</dict>
+					<dict>
+						<key>title</key>
+						<string>Miscellaneous Bits and Pieces</string>
+						<key>videos</key>
+						<array>
+							<dict>
+								<key>title</key>
+								<string>Converting Tuple Types</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/4187396-what-s-new-in-swift-5-1-16</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Tuples with Duplicate Labels</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/4187396-what-s-new-in-swift-5-1-17</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Overloading Functions With Any Parameters</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/4187396-what-s-new-in-swift-5-1-18</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Type Aliases for Autoclosure Parameters</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/4187396-what-s-new-in-swift-5-1-19</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Returning Self From Objective-C methods</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/4187396-what-s-new-in-swift-5-1-20</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Stable ABI Libraries</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/4187396-what-s-new-in-swift-5-1-21</string>
+							</dict>
+						</array>
+					</dict>
+				</array>
+				<key>updateCount</key>
+				<integer>0</integer>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Android &amp; Kotlin</string>
+		<key>tutorials</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Jetpack Compose Primer</string>
+				<key>type</key>
+				<string>course</string>
+				<key>thumbnail</key>
+				<string>jetpack-compose-primer</string>
+				<key>artworkColor</key>
+				<string>EC9038</string>
+				<key>publishDate</key>
+				<date>2019-06-04T04:00:00Z</date>
+				<key>isQueued</key>
+				<false/>
+				<key>content</key>
+				<array>
+					<dict>
+						<key>title</key>
+						<string>Videos</string>
+						<key>videos</key>
+						<array>
+							<dict>
+								<key>title</key>
+								<string>Setting Up Compose</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/3604589-jetpack-compose-primer/lessons/1</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Exploring Compose Demos</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/3604589-jetpack-compose-primer/lessons/2</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Create a Compose Activity</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/3604589-jetpack-compose-primer/lessons/3</string>
+							</dict>
+						</array>
+					</dict>
+				</array>
+				<key>updateCount</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Server-Side Kotlin with Ktor</string>
+				<key>type</key>
+				<string>course</string>
+				<key>thumbnail</key>
+				<string>server-side-kotlin-ktor</string>
+				<key>artworkColor</key>
+				<string>CF7A6F</string>
+				<key>publishDate</key>
+				<date>2019-05-21T04:00:00Z</date>
+				<key>isQueued</key>
+				<false/>
+				<key>content</key>
+				<array>
+					<dict>
+						<key>title</key>
+						<string>Getting Started with Ktor</string>
+						<key>videos</key>
+						<array>
+							<dict>
+								<key>title</key>
+								<string>Introduction</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/2885892-server-side-kotlin-with-ktor/lessons/1</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Hello, Ktor</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/2885892-server-side-kotlin-with-ktor/lessons/2</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>App Routes</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/2885892-server-side-kotlin-with-ktor/lessons/3</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Challenge: About Route</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/2885892-server-side-kotlin-with-ktor/lessons/4</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Model and Repository</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/2885892-server-side-kotlin-with-ktor/lessons/5</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>API Post Endpoint</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/2885892-server-side-kotlin-with-ktor/lessons/6</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Get Route</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/2885892-server-side-kotlin-with-ktor/lessons/7</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Templating with FreeMarker</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/2885892-server-side-kotlin-with-ktor/lessons/8</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Conclusion</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/2885892-server-side-kotlin-with-ktor/lessons/9</string>
+							</dict>
+						</array>
+					</dict>
+					<dict>
+						<key>title</key>
+						<string>Beautification and Type-Safe Routing</string>
+						<key>videos</key>
+						<array>
+							<dict>
+								<key>title</key>
+								<string>Introduction</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/2885892-server-side-kotlin-with-ktor/lessons/10</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Basic Authentication</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/2885892-server-side-kotlin-with-ktor/lessons/11</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>POST From the App</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/2885892-server-side-kotlin-with-ktor/lessons/12</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Beautify with Bootstrap Part 1</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/2885892-server-side-kotlin-with-ktor/lessons/13</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Beautify with Bootstrap Part 2</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/2885892-server-side-kotlin-with-ktor/lessons/14</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Challenge: About Template</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/2885892-server-side-kotlin-with-ktor/lessons/15</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Type-Safe Routing</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/2885892-server-side-kotlin-with-ktor/lessons/16</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Conclusion</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/2885892-server-side-kotlin-with-ktor/lessons/17</string>
+							</dict>
+						</array>
+					</dict>
+					<dict>
+						<key>title</key>
+						<string>Persistence and Sessions</string>
+						<key>videos</key>
+						<array>
+							<dict>
+								<key>title</key>
+								<string>Introduction</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/2885892-server-side-kotlin-with-ktor/lessons/18</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Exposed and H2</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/2885892-server-side-kotlin-with-ktor/lessons/19</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>PostgreSQL</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/2885892-server-side-kotlin-with-ktor/lessons/20</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Sessions Part 1</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/2885892-server-side-kotlin-with-ktor/lessons/21</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Sessions Part 2</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/2885892-server-side-kotlin-with-ktor/lessons/22</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Sessions Part 3</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/2885892-server-side-kotlin-with-ktor/lessons/23</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Conclusion</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/2885892-server-side-kotlin-with-ktor/lessons/24</string>
+							</dict>
+						</array>
+					</dict>
+					<dict>
+						<key>title</key>
+						<string>JWT Auth and the API</string>
+						<key>videos</key>
+						<array>
+							<dict>
+								<key>title</key>
+								<string>Introduction</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/2885892-server-side-kotlin-with-ktor/lessons/25</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>JWT Authentication</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/2885892-server-side-kotlin-with-ktor/lessons/26</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Get Phrases API</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/2885892-server-side-kotlin-with-ktor/lessons/27</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Post Phrases API</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/2885892-server-side-kotlin-with-ktor/lessons/28</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Conclusion</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/2885892-server-side-kotlin-with-ktor/lessons/29</string>
+							</dict>
+						</array>
+					</dict>
+					<dict>
+						<key>title</key>
+						<string>Deployment</string>
+						<key>videos</key>
+						<array>
+							<dict>
+								<key>title</key>
+								<string>Introduction</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/2885892-server-side-kotlin-with-ktor/lessons/30</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Deploy to Heroku</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/2885892-server-side-kotlin-with-ktor/lessons/31</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Dockerizing the App</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/2885892-server-side-kotlin-with-ktor/lessons/32</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Running with Docker</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/2885892-server-side-kotlin-with-ktor/lessons/33</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Conclusion</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/2885892-server-side-kotlin-with-ktor/lessons/34</string>
+							</dict>
+						</array>
+					</dict>
+				</array>
+				<key>updateCount</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Kotlin/Native and Multiplatform</string>
+				<key>type</key>
+				<string>course</string>
+				<key>thumbnail</key>
+				<string>kotlin-multiplatform</string>
+				<key>artworkColor</key>
+				<string>AEDFE0</string>
+				<key>publishDate</key>
+				<date>2019-04-02T04:00:00Z</date>
+				<key>isQueued</key>
+				<false/>
+				<key>content</key>
+				<array>
+					<dict>
+						<key>title</key>
+						<string>Getting Started with Kotlin/Native</string>
+						<key>videos</key>
+						<array>
+							<dict>
+								<key>title</key>
+								<string>Introduction</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304635-kotlin-native-and-multiplatform/lessons/1</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Kotlin/Native and Kotlin Multiplatform</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304635-kotlin-native-and-multiplatform/lessons/2</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Installing Konan</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304635-kotlin-native-and-multiplatform/lessons/3</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Your First Kotlin/Native Program</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304635-kotlin-native-and-multiplatform/lessons/4</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Challenge: Kotlin Scripting</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304635-kotlin-native-and-multiplatform/lessons/5</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Kotlin IDEs</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304635-kotlin-native-and-multiplatform/lessons/6</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Conclusion</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304635-kotlin-native-and-multiplatform/lessons/7</string>
+							</dict>
+						</array>
+					</dict>
+					<dict>
+						<key>title</key>
+						<string>Multiplatform and Shared Code</string>
+						<key>videos</key>
+						<array>
+							<dict>
+								<key>title</key>
+								<string>Introduction</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304635-kotlin-native-and-multiplatform/lessons/8</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Creating a Multiplatform Project</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304635-kotlin-native-and-multiplatform/lessons/9</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Shared Build Script</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304635-kotlin-native-and-multiplatform/lessons/10</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>expect and actual</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304635-kotlin-native-and-multiplatform/lessons/11</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Shared Library from Android</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304635-kotlin-native-and-multiplatform/lessons/12</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Creating the iOS Project</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304635-kotlin-native-and-multiplatform/lessons/13</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Shared Library from iOS</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304635-kotlin-native-and-multiplatform/lessons/14</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Challenge: Shared Library</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304635-kotlin-native-and-multiplatform/lessons/15</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Conclusion</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304635-kotlin-native-and-multiplatform/lessons/16</string>
+							</dict>
+						</array>
+					</dict>
+					<dict>
+						<key>title</key>
+						<string>Networking, Concurrency, and Serialization</string>
+						<key>videos</key>
+						<array>
+							<dict>
+								<key>title</key>
+								<string>Introduction</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304635-kotlin-native-and-multiplatform/lessons/17</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Ktor and Coroutines</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304635-kotlin-native-and-multiplatform/lessons/18</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>CoroutineContext</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304635-kotlin-native-and-multiplatform/lessons/19</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Shared Repository and Presenter</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304635-kotlin-native-and-multiplatform/lessons/20</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Shared Presenter from Android</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304635-kotlin-native-and-multiplatform/lessons/21</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Shared Presenter from iOS</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304635-kotlin-native-and-multiplatform/lessons/22</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Serialization</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304635-kotlin-native-and-multiplatform/lessons/22</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>The Android UI</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304635-kotlin-native-and-multiplatform/lessons/23</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>The iOS UI</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304635-kotlin-native-and-multiplatform/lessons/24</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Conclusion</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304635-kotlin-native-and-multiplatform/lessons/25</string>
+							</dict>
+						</array>
+					</dict>
+					<dict>
+						<key>title</key>
+						<string>AppCode, Debugging, and Gotchas</string>
+						<key>videos</key>
+						<array>
+							<dict>
+								<key>title</key>
+								<string>Introduction</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304635-kotlin-native-and-multiplatform/lessons/26</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>AppCode: Getting Started</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304635-kotlin-native-and-multiplatform/lessons/27</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>AppCode iOS App</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304635-kotlin-native-and-multiplatform/lessons/28</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Debugging</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304635-kotlin-native-and-multiplatform/lessons/29</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Gotchas</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304635-kotlin-native-and-multiplatform/lessons/30</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Conclusion</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/1304635-kotlin-native-and-multiplatform/lessons/31</string>
+							</dict>
+						</array>
+					</dict>
+				</array>
+				<key>updateCount</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Beginning RxKotlin</string>
+				<key>type</key>
+				<string>course</string>
+				<key>thumbnail</key>
+				<string>rx-kotlin</string>
+				<key>artworkColor</key>
+				<string>C29DB6</string>
+				<key>publishDate</key>
+				<date>2018-09-11T05:00:00Z</date>
+				<key>isQueued</key>
+				<false/>
+				<key>content</key>
+				<array>
+					<dict>
+						<key>title</key>
+						<string>Getting Started with RxKotlin</string>
+						<key>videos</key>
+						<array>
+							<dict>
+								<key>title</key>
+								<string>Introduction</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/7419-beginning-rxkotlin/lessons/1</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Hello RxKotlin</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/7419-beginning-rxkotlin/lessons/2</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Installing RxKotlin</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/7419-beginning-rxkotlin/lessons/3</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Creating Observables</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/7419-beginning-rxkotlin/lessons/4</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Subscribing to Observables, Part 1</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/7419-beginning-rxkotlin/lessons/5</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Subscribing to Observables, Part 2</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/7419-beginning-rxkotlin/lessons/6</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Challenge: Performing Side Effects</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/7419-beginning-rxkotlin/lessons/7</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Subjects, Part 1</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/7419-beginning-rxkotlin/lessons/8</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Subjects, Part 2</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/7419-beginning-rxkotlin/lessons/9</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Challenge: Create a Blackjack Card Dealer</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/7419-beginning-rxkotlin/lessons/10</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Observables and Subjects in Practice, Part 1</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/7419-beginning-rxkotlin/lessons/11</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Observables and Subjects in Practice, Part 2</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/7419-beginning-rxkotlin/lessons/12</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Observables and Subjects in Practice, Part 3</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/7419-beginning-rxkotlin/lessons/13</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Conclusion</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/7419-beginning-rxkotlin/lessons/14</string>
+							</dict>
+						</array>
+					</dict>
+					<dict>
+						<key>title</key>
+						<string>Filtering Observables</string>
+						<key>videos</key>
+						<array>
+							<dict>
+								<key>title</key>
+								<string>Introduction</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/7419-beginning-rxkotlin/lessons/15</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Filtering Operators, Part 1</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/7419-beginning-rxkotlin/lessons/16</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Filtering Operators, Part 2</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/7419-beginning-rxkotlin/lessons/17</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Challenge: Create a Phone Number Lookup</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/7419-beginning-rxkotlin/lessons/18</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Filtering and Sharing Operators in Practice</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/7419-beginning-rxkotlin/lessons/19</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Schedulers and Timing Operators</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/7419-beginning-rxkotlin/lessons/20</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Challenge: Optimize Combinestagram</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/7419-beginning-rxkotlin/lessons/21</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Conclusion</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/7419-beginning-rxkotlin/lessons/22</string>
+							</dict>
+						</array>
+					</dict>
+					<dict>
+						<key>title</key>
+						<string>Transforming Observables</string>
+						<key>videos</key>
+						<array>
+							<dict>
+								<key>title</key>
+								<string>Introduction</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/7419-beginning-rxkotlin/lessons/23</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Transforming Operators</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/7419-beginning-rxkotlin/lessons/24</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Installing Konan</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/7419-beginning-rxkotlin/lessons/25</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Challenge: Improve the Phone Number Lookup</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/7419-beginning-rxkotlin/lessons/26</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Transforming Operators in Practice, Part 1</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/7419-beginning-rxkotlin/lessons/27</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Transforming Operators in Practice, Part 2</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/7419-beginning-rxkotlin/lessons/28</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Transforming Operators in Practice, Part 3</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/7419-beginning-rxkotlin/lessons/29</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Challenge: Improve GitFeed</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/7419-beginning-rxkotlin/lessons/30</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Conclusion</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/7419-beginning-rxkotlin/lessons/31</string>
+							</dict>
+						</array>
+					</dict>
+					<dict>
+						<key>title</key>
+						<string>Combining Observables</string>
+						<key>videos</key>
+						<array>
+							<dict>
+								<key>title</key>
+								<string>Introduction</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/7419-beginning-rxkotlin/lessons/32</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Combining Operators, Part 1</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/7419-beginning-rxkotlin/lessons/33</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Combining Operators, Part 2</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/7419-beginning-rxkotlin/lessons/34</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Challenge: The Zip Case</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/7419-beginning-rxkotlin/lessons/35</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Combining Operators in Practice, Part 1</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/7419-beginning-rxkotlin/lessons/36</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Combining Operators in Practice, Part 2</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/7419-beginning-rxkotlin/lessons/37</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Downloading in Parallel, Part 1</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/7419-beginning-rxkotlin/lessons/38</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Downloading in Parallel, Part 2</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/7419-beginning-rxkotlin/lessons/39</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Challenge: Indicate Download Activity</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/7419-beginning-rxkotlin/lessons/40</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Conclusion</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/7419-beginning-rxkotlin/lessons/41</string>
+							</dict>
+						</array>
+					</dict>
+				</array>
+				<key>updateCount</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>MVP on Android</string>
+				<key>type</key>
+				<string>course</string>
+				<key>thumbnail</key>
+				<string>mvp-android</string>
+				<key>artworkColor</key>
+				<string>ED7E1B</string>
+				<key>publishDate</key>
+				<date>2018-12-18T05:00:00Z</date>
+				<key>isQueued</key>
+				<false/>
+				<key>content</key>
+				<array>
+					<dict>
+						<key>title</key>
+						<string>Videos</string>
+						<key>videos</key>
+						<array>
+							<dict>
+								<key>title</key>
+								<string>Introduction</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/9216-mvp-on-android/lessons/1</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>MVP</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/9216-mvp-on-android/lessons/2</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Building the Model</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/9216-mvp-on-android/lessons/3</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Model Repository</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/9216-mvp-on-android/lessons/4</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Presenter Contract</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/9216-mvp-on-android/lessons/5</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>View Contract</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/9216-mvp-on-android/lessons/6</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Building the Presenter</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/9216-mvp-on-android/lessons/7</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Testing the Presenter</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/9216-mvp-on-android/lessons/8</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Challenge: Presenter Test</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/9216-mvp-on-android/lessons/9</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Saving to the Repository</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/9216-mvp-on-android/lessons/10</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Challenge: MVP</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/9216-mvp-on-android/lessons/11</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Conclusion</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/9216-mvp-on-android/lessons/12</string>
+							</dict>
+						</array>
+					</dict>
+				</array>
+				<key>updateCount</key>
+				<integer>0</integer>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Server-Side Swift</string>
+		<key>tutorials</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Server Side Swift with Vapor</string>
+				<key>type</key>
+				<string>course</string>
+				<key>thumbnail</key>
+				<string>vapor</string>
+				<key>artworkColor</key>
+				<string>EFB9B6</string>
+				<key>publishDate</key>
+				<date>2019-02-05T05:00:00Z</date>
+				<key>isQueued</key>
+				<false/>
+				<key>content</key>
+				<array>
+					<dict>
+						<key>title</key>
+						<string>Getting Started With Vapor</string>
+						<key>videos</key>
+						<array>
+							<dict>
+								<key>title</key>
+								<string>Introduction</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/870225-server-side-swift-with-vapor/lessons/1</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Hello World</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/870225-server-side-swift-with-vapor/lessons/2</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>HTTP Basics</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/870225-server-side-swift-with-vapor/lessons/3</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Accepting Data</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/870225-server-side-swift-with-vapor/lessons/4</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Challenge: Create Your Own Routes</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/870225-server-side-swift-with-vapor/lessons/5</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Conclusion</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/870225-server-side-swift-with-vapor/lessons/6</string>
+							</dict>
+						</array>
+					</dict>
+					<dict>
+						<key>title</key>
+						<string>Creating An API</string>
+						<key>videos</key>
+						<array>
+							<dict>
+								<key>title</key>
+								<string>Introduction</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/870225-server-side-swift-with-vapor/lessons/7</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Async</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/870225-server-side-swift-with-vapor/lessons/8</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Creating a Model</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/870225-server-side-swift-with-vapor/lessons/9</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Controllers and CRUD</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/870225-server-side-swift-with-vapor/lessons/10</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Finishing CRUD</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/870225-server-side-swift-with-vapor/lessons/11</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Challenge: Users and Categories</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/870225-server-side-swift-with-vapor/lessons/12</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Parent-Child Relationships</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/870225-server-side-swift-with-vapor/lessons/13</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Sibling Relationships</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/870225-server-side-swift-with-vapor/lessons/14</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Fluent Queries</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/870225-server-side-swift-with-vapor/lessons/15</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Persisting Data with MySQL</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/870225-server-side-swift-with-vapor/lessons/16</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Conclusion</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/870225-server-side-swift-with-vapor/lessons/17</string>
+							</dict>
+						</array>
+					</dict>
+					<dict>
+						<key>title</key>
+						<string>Templating With Leaf</string>
+						<key>videos</key>
+						<array>
+							<dict>
+								<key>title</key>
+								<string>Introduction</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/870225-server-side-swift-with-vapor/lessons/18</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Getting Started with Leaf</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/870225-server-side-swift-with-vapor/lessons/19</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Powerful Templates</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/870225-server-side-swift-with-vapor/lessons/20</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Embedding Templates</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/870225-server-side-swift-with-vapor/lessons/21</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Beautifying Our App</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/870225-server-side-swift-with-vapor/lessons/22</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Challenge: Users and Categories</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/870225-server-side-swift-with-vapor/lessons/23</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Creating Acronyms</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/870225-server-side-swift-with-vapor/lessons/24</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Edit and Delete Acronyms</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/870225-server-side-swift-with-vapor/lessons/25</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Conclusion</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/870225-server-side-swift-with-vapor/lessons/26</string>
+							</dict>
+						</array>
+					</dict>
+					<dict>
+						<key>title</key>
+						<string>Authentication</string>
+						<key>videos</key>
+						<array>
+							<dict>
+								<key>title</key>
+								<string>Introduction</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/870225-server-side-swift-with-vapor/lessons/27</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Passwords</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/870225-server-side-swift-with-vapor/lessons/28</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>API Authentication</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/870225-server-side-swift-with-vapor/lessons/29</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Web Authentication</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/870225-server-side-swift-with-vapor/lessons/30</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Conclusion</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/870225-server-side-swift-with-vapor/lessons/31</string>
+							</dict>
+						</array>
+					</dict>
+					<dict>
+						<key>title</key>
+						<string>The iOS App</string>
+						<key>videos</key>
+						<array>
+							<dict>
+								<key>title</key>
+								<string>Introduction</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/870225-server-side-swift-with-vapor/lessons/32</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Viewing Models</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/870225-server-side-swift-with-vapor/lessons/33</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Creating and Deleting Models</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/870225-server-side-swift-with-vapor/lessons/34</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Setting Up Relationships</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/870225-server-side-swift-with-vapor/lessons/35</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Conclusion</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/870225-server-side-swift-with-vapor/lessons/36</string>
+							</dict>
+						</array>
+					</dict>
+				</array>
+				<key>updateCount</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Server Side Swift with Kitura</string>
+				<key>type</key>
+				<string>course</string>
+				<key>thumbnail</key>
+				<string>kitura</string>
+				<key>artworkColor</key>
+				<string>79E5FF</string>
+				<key>publishDate</key>
+				<date>2018-06-12T04:00:00Z</date>
+				<key>isQueued</key>
+				<false/>
+				<key>content</key>
+				<array>
+					<dict>
+						<key>title</key>
+						<string>Hello, Kitura</string>
+						<key>videos</key>
+						<array>
+							<dict>
+								<key>title</key>
+								<string>Introduction</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/3770-server-side-swift-with-kitura/lessons/1</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>EmojiJournal - The Walkthrough</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/3770-server-side-swift-with-kitura/lessons/2</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Getting Started</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/3770-server-side-swift-with-kitura/lessons/3</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>HTTP Crash Course</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/3770-server-side-swift-with-kitura/lessons/4</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Running Your API in Docker</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/3770-server-side-swift-with-kitura/lessons/5</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Preparing to Deploy - IBM Cloud</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/3770-server-side-swift-with-kitura/lessons/6</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Deploying to IBM Cloud</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/3770-server-side-swift-with-kitura/lessons/7</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Introduction to Kitura CLI</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/3770-server-side-swift-with-kitura/lessons/8</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Conclusion</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/3770-server-side-swift-with-kitura/lessons/9</string>
+							</dict>
+						</array>
+					</dict>
+					<dict>
+						<key>title</key>
+						<string>Completing Your Backend</string>
+						<key>videos</key>
+						<array>
+							<dict>
+								<key>title</key>
+								<string>Introduction to Kitura 2.0</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/3770-server-side-swift-with-kitura/lessons/10</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Making Codable Routes</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/3770-server-side-swift-with-kitura/lessons/11</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Challenge: Create a DELETE Route</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/3770-server-side-swift-with-kitura/lessons/12</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Introduction to CouchDB</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/3770-server-side-swift-with-kitura/lessons/13</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Connecting to CouchDB</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/3770-server-side-swift-with-kitura/lessons/14</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Challenge: Using CouchDB in the Cloud</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/3770-server-side-swift-with-kitura/lessons/15</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Writing Your Persistence Functions</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/3770-server-side-swift-with-kitura/lessons/16</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Challenge: Linking Your Router to CouchDB</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/3770-server-side-swift-with-kitura/lessons/17</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Conclusion</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/3770-server-side-swift-with-kitura/lessons/18</string>
+							</dict>
+						</array>
+					</dict>
+					<dict>
+						<key>title</key>
+						<string>Linking Your iOS Client to Kitura</string>
+						<key>videos</key>
+						<array>
+							<dict>
+								<key>title</key>
+								<string>Introduction to KituraKit</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/3770-server-side-swift-with-kitura/lessons/19</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Demo the iOS Starter</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/3770-server-side-swift-with-kitura/lessons/20</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Integrating KituraKit Using CocoaPods</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/3770-server-side-swift-with-kitura/lessons/21</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Creating Your KituraKit Client</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/3770-server-side-swift-with-kitura/lessons/22</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Challenge: Finishing Your Client</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/3770-server-side-swift-with-kitura/lessons/23</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Conclusion</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/3770-server-side-swift-with-kitura/lessons/24</string>
+							</dict>
+						</array>
+					</dict>
+					<dict>
+						<key>title</key>
+						<string>Templating A HTML Front-End With Stencil</string>
+						<key>videos</key>
+						<array>
+							<dict>
+								<key>title</key>
+								<string>Introduction to Web Clients</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/3770-server-side-swift-with-kitura/lessons/25</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Introduction to KituraStencil</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/3770-server-side-swift-with-kitura/lessons/26</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Creating a Landing Page</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/3770-server-side-swift-with-kitura/lessons/27</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Showing Your Web UI</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/3770-server-side-swift-with-kitura/lessons/28</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Adding a New Entry via the Web</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/3770-server-side-swift-with-kitura/lessons/29</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Challenge: Deleting Entries via the Web</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/3770-server-side-swift-with-kitura/lessons/30</string>
+							</dict>
+							<dict>
+								<key>title</key>
+								<string>Conclusion</string>
+								<key>url</key>
+								<string>https://www.raywenderlich.com/3770-server-side-swift-with-kitura/lessons/31</string>
+							</dict>
+						</array>
+					</dict>
+				</array>
+				<key>updateCount</key>
+				<integer>0</integer>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
